@@ -1,0 +1,32 @@
+.mainHeader {
+  border: 1px solid black;
+  display: flex;
+  justify-content: center;
+}
+
+.navlogo img {
+  width: 200px;
+}
+
+.mainHome {
+  border: 1px solid black;
+}
+
+.mainFooter {
+  border: 1px solid black;
+}
+
+.mainNav {
+  border: 1px solid red;
+  width: 70%;
+}
+
+.mainnavDiv {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+
+.navLinkUl {
+  border: 1 px solid yellow;
+}
